@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**mathewgit/mathewgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+Welcome to my GitHub profile! I'm Mathew, and I specialize in AI, Machine Learning, and Data Engineering. I love solving complex problems and sharing my solutions here. Check out my repositories for code and projects related to AI, Data Engineering, and Cloud technologies! 🌟
 
-Here are some ideas to get you started:
+Here are a few things about me:
 
-- 🔭 I’m currently working on Analytics Project
-- 🌱 I’m currently learning Cloud / Devops / Data Engineering
-- 👯 I’m looking to collaborate on Cloud 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python Analytics
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on an AI and Analytics Project
+🌱 I’m currently learning Cloud / DevOps / Data Engineering
+👯 I’m looking to collaborate on Cloud and AI projects
+🤔 I’m looking for help with building scalable AI solutions
+💬 Ask me about Python, Analytics, and Machine Learning
+📫 How to reach me:--> https://www.linkedin.com/in/mathew-j-43149b53/
