@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile. I am Mathew, a Senior Consultant working in AI and Data Engineering within the Digital Engineering team at EY.
+Welcome to my GitHub profile. I am Mathew, a Senior Consultant working in AI and Data Engineering .
 
 I design and build cloud-native AI and data solutions, with a strong focus on scalable architectures, Retrieval-Augmented Generation pipelines, and production-ready data platforms. I enjoy working on complex, end-to-end problems and sharing practical solutions through code and projects.
 
