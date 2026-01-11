@@ -21,6 +21,7 @@ I design and build cloud-native AI and data solutions, with a strong focus on sc
 
 I have delivered data and AI solutions across multiple industries, which helps me design systems that are practical, scalable, and aligned with real business needs.
 
+- Global Trade  (MFN,Preference Rate)
 - Retail  
 - Pharmaceuticals  
 - FMCG  
